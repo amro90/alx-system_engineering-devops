@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod 751 hello a script that sets the mode of the file hello to this:
