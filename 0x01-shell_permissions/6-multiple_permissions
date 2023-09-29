@@ -1,1 +1,2 @@
-0x01-shell_permissions/5-execute
+#!/bin/bash
+chmod 774  hello
